@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to improve ETS scan on the Tecsun PL-310et"
-date:   2021-01-24 21:48:56 +0000
+title:  "How to improve ETS scan on Tecsun PL-310et"
+date:   2021-01-25 21:48:56 +0000
 category: Tutorials
 tags: TecsunPL-310et Tecsun
 ---
