@@ -2,6 +2,8 @@
 layout: post
 title:  "How to improve ETS scan on the Tecsun PL-310et"
 date:   2021-01-24 21:48:56 +0000
+category: Tutorials
+tags: TecsunPL-310et Tecsun
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZX9XLQKJ8Rw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
