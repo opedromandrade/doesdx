@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preaching on 11600kHz"
-date:   2021-02-07 15:12 +0000
+date:   2021-02-07 15:22 +0000
 category: Observations
 tags: Shortwave SWL TecsunPL-310et Tecsun Supreme
 ---
